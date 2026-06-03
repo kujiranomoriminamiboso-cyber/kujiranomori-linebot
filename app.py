@@ -213,7 +213,7 @@ def make_result_flex(title, tours):
                         "type": "button",
                         "action": {
                             "type": "uri",
-                            "label": "現在申し込み中の体験一覧",
+                            "label": "現在申し込み可能な体験一覧",
                             "uri": "https://www.asoview.com/channel/activities/ja/kujiranomori/offices/2356/courses?language_type=ja",
                         },
                         "style": "primary",
